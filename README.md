@@ -14,7 +14,7 @@
 
   - [Deltechx Company](http://deltechx.com) - Company website
 
-  - [Lackky](https://lacky.com) - Share image service
+  - [Lackky](https://lackky.com) - Share image service
 
   - [Video Teaching](http://gsviec.com) Clone youtube
   
