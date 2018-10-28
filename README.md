@@ -12,15 +12,13 @@
 
   - [5Nines](http://5nines.co.za/) - Build API and Backend from sensor devices
 
-  - [Forum Phalcon Vietnam](http://forum.phanbook.com) - Forum
-
-  - [Blog SaigonPHP](http://blog.saigonphp.com) - Blog context
-
   - [Deltechx Company](http://deltechx.com) - Company website
 
   - [Lackky](https://lacky.com) - Share image service
 
-  - [Video pets](http://video.lackky.com) Clone youtube
+  - [Video Teaching](http://gsviec.com) Clone youtube
+  
+  - [Build Your Own Social Network](https://www.socialveo.com)
 
   #### Drupal
 
