@@ -1,4 +1,9 @@
-# My Portfolio
+# My Portfolio and experience
+## Junior web developer at GO1
+## Senior web developer at EVOLABLE ASIA
+## Junior devops at gsviec
+## Senior devops at Tripolis Solutions
+
 
 ### Project pass
 
