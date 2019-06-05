@@ -7,10 +7,10 @@
 - Work the same time on many languages and technologies:PHP, Go, MySQL, MongoDB, Redis, RabitMQ,  AWS, Docker Engine 
 - Mentoring team members and perform code review infrastructure
 ## Senior devops at Tripolis Solutions
-- Join to build an Email marketing system, a multichannel communication solution.
-- Designed and implemented public API follow RESTful and JSONAPI
-- Work the same time on many languages and technologies: Ruby on Rails, Java, Go, Postgres, MongoDB, Redis, RabitMQ, Apache storm, Rundeck Job Scheduler, Dkron Scheduler, Oauth, AWS, Docker Engine, Microservices
-- Mentoring team members and perform code review infrastructure
+- DevOps Team Members work on the AWS Amazon Cloud, using key technology such Docker containers for Micro Services hosting and management, and are responsible to ensure 99.995% uptime of our production environment This includes our hosted SaaS application and other cluster or general hosting we implement. Team members build new architectural solutions using Micro Services, plan the rollout of new code and ensure the systems have high availability using monitoring software and clustering techniques.
+- Work with database solutions and NoSQL systems such as Hadoop, MongoDB, Rethink DB and PostgreSQL. The Database work includes backup, restore, partitioning, replicating, sharding and cluster management. We also implement bleeding edge solutions such as Twitter Storm, Snowplow EMR using Hadoop and cool tech such as Amazon Kinesis.
+- Defect management, general fault finding and proactive identification of risks to management and the cloud infrastructure.
+- Build new Cloud based integration solutions and regional Disaster Recovery mechanisms and global database clusters.
 
 ### Project pass
 
