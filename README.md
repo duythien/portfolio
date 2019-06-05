@@ -1,9 +1,16 @@
 # My Portfolio and experience
-## Junior web developer at GO1
-## Senior web developer at EVOLABLE ASIA
+## Junior web developer at GO1 (two year)
+## Mid-Level web developer at EVOLABLE ASIA(one year)
 ## Junior devops at gsviec
+- Join to build an Teaching marketing system
+- Designed and implemented public API follow RESTful and JSONAPI
+- Work the same time on many languages and technologies:PHP, Go, MySQL, MongoDB, Redis, RabitMQ,  AWS, Docker Engine 
+- Mentoring team members and perform code review infrastructure
 ## Senior devops at Tripolis Solutions
-
+- Join to build an Email marketing system, a multichannel communication solution.
+- Designed and implemented public API follow RESTful and JSONAPI
+- Work the same time on many languages and technologies: Ruby on Rails, Java, Go, Postgres, MongoDB, Redis, RabitMQ, Apache storm, Rundeck Job Scheduler, Dkron Scheduler, Oauth, AWS, Docker Engine, Microservices
+- Mentoring team members and perform code review infrastructure
 
 ### Project pass
 
