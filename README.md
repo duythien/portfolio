@@ -4,9 +4,10 @@ Below my awesome:
 ### Junior web developer at GO1 (two year)
 - Drupal developer
 
-### Mid-Level web developer at EVOLABLE ASIA(one year)
+### Mid-Level web developer and begin devops at EVOLABLE ASIA(two year)
 - Work Phalcon project
 - Work FulePHP project
+- Work with Docker and AWS
 
 ### Junior devops at gsviec(01/01-2017-01/2/2018)
 - Join to build an Teaching marketing system
