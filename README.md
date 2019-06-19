@@ -35,11 +35,11 @@ Below my awesome:
 
   - [Deltechx Company](http://deltechx.com) - Company website
 
-  - [Lackky](https://lackky.com) - Share image service
+  - [Lackky](https://lackky.com) - Social network for pets
 
   - [Video Teaching](http://gsviec.com) Clone youtube
   
-  - [Build Your Own Social Network](https://www.socialveo.com)
+  - [Build Your Own Social Network](https://socialveo.com)
 
   #### Drupal
 
@@ -52,6 +52,8 @@ Below my awesome:
   - [Greenhousenovels](http://greenhousenovels.com/) - Blog context
 
   - [Lackky](https://lackky.com/blog) - Blog context
+  
+  - [Jobs posting](https://gsviec.com/jobs - Jobs post
 
   #### Zend
 
@@ -71,4 +73,4 @@ Below my awesome:
 
 - [Organizer of Saigon Developer](http://www.meetup.com/Engineers-Saigon/) - Meetup
 - [My Spacker Deck](https://speakerdeck.com/duythien)
-- [My blog](http://ama.phanbook.com) - Tips and Tricks PHP
+- [My blog](http://gsviec.com/blog) - Tips and Tricks PHP and Devops
