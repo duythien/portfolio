@@ -1,18 +1,26 @@
 ## My Portfolio and experience
+Below my awesome:
+
 ### Junior web developer at GO1 (two year)
+- Drupal developer
+
 ### Mid-Level web developer at EVOLABLE ASIA(one year)
-### Junior devops at gsviec
+- Work Phalcon project
+- Work FulePHP project
+
+### Junior devops at gsviec(01/01-2017-01/2/2018)
 - Join to build an Teaching marketing system
 - Designed and implemented public API follow RESTful and JSONAPI
 - Work the same time on many languages and technologies:PHP, Go, MySQL, MongoDB, Redis, RabitMQ,  AWS, Docker Engine 
 - Mentoring team members and perform code review infrastructure
-### Senior devops at Tripolis Solutions
+
+### Senior devops at Tripolis Solutions(01/03/2018)-TODAY
 - DevOps Team Members work on the AWS Amazon Cloud, using key technology such Docker containers for Micro Services hosting and management, and are responsible to ensure 99.995% uptime of our production environment This includes our hosted SaaS application and other cluster or general hosting we implement. Team members build new architectural solutions using Micro Services, plan the rollout of new code and ensure the systems have high availability using monitoring software and clustering techniques.
 - Work with database solutions and NoSQL systems such as Hadoop, MongoDB, Rethink DB and PostgreSQL. The Database work includes backup, restore, partitioning, replicating, sharding and cluster management. We also implement bleeding edge solutions such as Twitter Storm, Snowplow EMR using Hadoop and cool tech such as Amazon Kinesis.
 - Defect management, general fault finding and proactive identification of risks to management and the cloud infrastructure.
 - Build new Cloud based integration solutions and regional Disaster Recovery mechanisms and global database clusters.
 
-## Project pass
+### Project pass
 
   #### Phalcon
   
