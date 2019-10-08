@@ -23,6 +23,7 @@ Below my awesome:
 ### Senior devops at NFQ Asia  01/01/2019 - TODAY
 - DevOps Team Members work on the AWS Amazon Cloud, using key technology such Terraform and Ansible to management
 - Work with database solutions such as MYSQL, Redis and MongoDB
+_ Working with Kubernetes and Nomad
 - Build new Cloud based integration solutions and regional Disaster Recovery mechanisms and global database clusters.
 
 ### Project pass
