@@ -1,32 +1,33 @@
 ## My Portfolio and experience
 Below my awesome:
 
-### Junior web developer at GO1 (two year)
+### Junior web developer at GO1
 - Drupal developer
 
-### Mid-Level web developer and begin devops at EVOLABLE ASIA(two year)
+### Mid-Level web developer and begin devops at EVOLABLE ASIA
 - Work Phalcon project
 - Work FulePHP project
 - Work with Docker and AWS
 
-### Junior devops at gsviec(01/01-2017-01/2/2018)
+### Junior devops at gsviec
 - Join to build an Teaching marketing system
 - Designed and implemented public API follow RESTful and JSONAPI
 - Work the same time on many languages and technologies:PHP, Go, MySQL, MongoDB, Redis, RabitMQ,  AWS, Docker Engine 
 - Mentoring team members and perform code review infrastructure
 
-### Senior devops at Tripolis Solutions(01/03/2018)- 01/12/2018
+### Senior devops at Tripolis Solutions
 - DevOps Team Members work on the AWS Amazon Cloud, using key technology such Docker containers for Micro Services hosting and management, and are responsible to ensure 99.995% uptime of our production environment This includes our hosted SaaS application and other cluster or general hosting we implement.
 - Work with database solutions and NoSQL systems such as  MongoDB, Rethink DB and PostgreSQL. The Database work includes backup, restore, partitioning, replicating, sharding and cluster management.
 - Defect management, general fault finding and proactive identification of risks to management and the cloud infrastructure.
 - Build new Cloud based integration solutions and regional Disaster Recovery mechanisms and global database clusters.
-### Senior devops at NFQ Asia  01/01/2019 - TODAY
+
+### Senior devops at NFQ Asia
 - DevOps Team Members work on the AWS Amazon Cloud, using key technology such Terraform and Ansible to management
 - Work with database solutions such as MYSQL, Redis and MongoDB
 _ Working with Kubernetes and Nomad
 - Build new Cloud based integration solutions and regional Disaster Recovery mechanisms and global database clusters.
 
-### Project pass
+### Project pass I can show
 
   #### Phalcon
   
@@ -45,6 +46,7 @@ _ Working with Kubernetes and Nomad
   - [Video Teaching](http://gsviec.com) Clone youtube
   
   - [Build Your Own Social Network](https://socialveo.com)
+  
   - [Build Your Own Social Network Art](https://frm.fm)
 
 
